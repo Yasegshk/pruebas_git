@@ -2374,7 +2374,7 @@
                 },
                 {
                     "inom": "V02",
-                    "iestat": "Vigent",
+                    "iestat": "OBSOLETA (Obligat compliment)",
                     "itipus": "Tabular",
                     "ipromotor": "Departament d'Igualtat i Feminismes",
                     "idescripcio": "Es modifica el nom \"No binari\" (valor anterior) per \"No-binari\" (valor actualitzat).",
@@ -2382,9 +2382,24 @@
                     "ifitxer_xls": "Genere.xlsx",
                     "idatacreacio": "26/09/2023",
                     "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
+                    "idataobsoleta": "2023-09-27",
                     "idatapublicacio": "27/09/2023",
                     "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Societat-benestar/G-nere/rpg6-9mu9",
+                    "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "V02",
+                    "iestat": "PUBLICADA (Obligat compliment)",
+                    "itipus": "Tabular",
+                    "ipromotor": "Departament d'Igualtat i Feminismes",
+                    "idescripcio": "Es modifica el nom \"No binari\" (valor anterior) per \"No-binari\" (valor actualitzat).",
+                    "ifitxer_doc": "Genere_ATR.docx",
+                    "ifitxer_xls": "Genere.xlsx",
+                    "idatacreacio": "2023-09-26",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "2023-09-27",
+                    "iurl_dades_obertes": "",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
