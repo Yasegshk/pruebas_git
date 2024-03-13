@@ -3734,7 +3734,7 @@
                 },
                 {
                     "inom": "V04",
-                    "iestat": "Vigent",
+                    "iestat": "OBSOLETA (Obligat compliment)",
                     "itipus": "Tabular",
                     "ipromotor": "Institut Cartogràfic i Geològic de Catalunya (ICGC)",
                     "idescripcio": "S'incorporen 4 nous valors.",
@@ -3742,9 +3742,24 @@
                     "ifitxer_xls": "Tipus_Via.xlsx",
                     "idatacreacio": "24/10/2023",
                     "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
+                    "idataobsoleta": "2023-10-25",
                     "idatapublicacio": "31/01/2024",
                     "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Tipus-de-via/gjnk-vmhw",
+                    "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "V03",
+                    "iestat": "PUBLICADA (Obligat compliment)",
+                    "itipus": "Tabular",
+                    "ipromotor": "Institut Cartogràfic i Geològic de Catalunya (ICGC)",
+                    "idescripcio": "S'incorporen nous valors, s'afegeix l’atribut Idioma i la traducció de tots els valors a l'occità – aranès.",
+                    "ifitxer_doc": "Tipus_Via_ATR.docx",
+                    "ifitxer_xls": "Tipus_Via.xlsx",
+                    "idatacreacio": "2023-10-24",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "2023-10-25",
+                    "iurl_dades_obertes": "",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
