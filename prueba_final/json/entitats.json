@@ -3749,6 +3749,21 @@
                 },
                 {
                     "inom": "V03",
+                    "iestat": "OBSOLETA (Obligat compliment)",
+                    "itipus": "Tabular",
+                    "ipromotor": "Institut Cartogràfic i Geològic de Catalunya (ICGC)",
+                    "idescripcio": "S'incorporen nous valors, s'afegeix l’atribut Idioma i la traducció de tots els valors a l'occità – aranès.",
+                    "ifitxer_doc": "Tipus_Via_ATR.docx",
+                    "ifitxer_xls": "Tipus_Via.xlsx",
+                    "idatacreacio": "2023-10-24",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "2023-10-25",
+                    "idatapublicacio": "2023-10-25",
+                    "iurl_dades_obertes": "",
+                    "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "V03",
                     "iestat": "PUBLICADA (Obligat compliment)",
                     "itipus": "Tabular",
                     "ipromotor": "Institut Cartogràfic i Geològic de Catalunya (ICGC)",
@@ -3759,7 +3774,7 @@
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "",
                     "idatapublicacio": "2023-10-25",
-                    "iurl_dades_obertes": "",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/ak54-hwqw",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
