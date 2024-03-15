@@ -1092,7 +1092,7 @@
                 },
                 {
                     "inom": "CCPA-2014 - V01",
-                    "iestat": "Vigent",
+                    "iestat": "OBSOLETA (Obligat compliment)",
                     "itipus": "Tabular",
                     "ipromotor": "Institut d'Estadística de Catalunya (Idescat)",
                     "idescripcio": "Any 2014. Versió inicial.",
@@ -1100,9 +1100,24 @@
                     "ifitxer_xls": "CCPA_2014.xlsx",
                     "idatacreacio": "09/03/2020",
                     "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
+                    "idataobsoleta": "2024-03-07",
                     "idatapublicacio": "17/02/2020",
                     "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Ind%C3%BAstria/CCPA-2014/cvur-ezmm",
+                    "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "prueba1",
+                    "iestat": "PUBLICADA (Obligat compliment)",
+                    "itipus": "Tabular",
+                    "ipromotor": "Departament de Justícia, Drets i Memòria - CTEAJE",
+                    "idescripcio": "Any 2014. Versió inicial.",
+                    "ifitxer_doc": "CCPA_2014_ATR.docx",
+                    "ifitxer_xls": "CCPA_2014.xlsx",
+                    "idatacreacio": "2024-03-06",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "2024-03-07",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/7fx9-s3q7",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
