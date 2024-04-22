@@ -1679,6 +1679,21 @@
                 },
                 {
                     "inom": "Prueba Presentacion",
+                    "iestat": "OBSOLETA (Obligat compliment)",
+                    "itipus": "Tabular",
+                    "ipromotor": "Direcció General de Modernització de l'Administració de Justícia - Departament de Justícia, Drets i Memòria",
+                    "idescripcio": "Versió inicial.",
+                    "ifitxer_doc": "Delictes_ATR.docx",
+                    "ifitxer_xls": "Delictes.xlsx",
+                    "idatacreacio": "2024-03-07",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "2024-03-07",
+                    "idatapublicacio": "2024-03-07",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/ph5f-eke9",
+                    "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "Prueba Presentacion",
                     "iestat": "PUBLICADA (Obligat compliment)",
                     "itipus": "Tabular",
                     "ipromotor": "Direcció General de Modernització de l'Administració de Justícia - Departament de Justícia, Drets i Memòria",
@@ -1689,7 +1704,7 @@
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "",
                     "idatapublicacio": "2024-03-07",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/ph5f-eke9",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/nm9s-ianj",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
