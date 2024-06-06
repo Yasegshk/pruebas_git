@@ -1,34 +1,6 @@
 {
     "data": [
         {
-            "Id": "dtarq163",
-            "Nom": "Categoria NTI",
-            "Ambit": "Administració pública, govern i relacions institucionals",
-            "Subambit": "Funcionament de l'administració",
-            "Descripcio": "Llistat de categories de documents en què s'agrupen el diferents tipus NTI (Norma Tècnica d’Interoperabilitat de Document Electrònic).",
-            "instancies": [
-                {
-                    "inom": "V00.01",
-                    "iestat": "Pendent",
-                    "itipus": "Tabular",
-                    "ipromotor": "Centre de Telecomunicacions i Tecnologies de la Informació (CTTI)",
-                    "idescripcio": "Versió inicial.",
-                    "ifitxer_doc": "Categoria_NTI_ATR.docx",
-                    "ifitxer_xls": "Categoria_NTI.xlsx",
-                    "idatacreacio": "14/12/2020",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
-                    "idatapublicacio": "22/12/2021",
-                    "iurl_dades_obertes": "",
-                    "itipusactualitzacio": "Sota demanda"
-                }
-            ],
-            "nom_dinsBD": "CATEGORIA_NTI",
-            "Classificacio": "Pendent",
-            "Data_publicacio": "22/12/2021",
-            "Data_actualitzacio": "22/12/2021"
-        },
-        {
             "Id": "dtarq167",
             "Nom": "Diaris i butlletins oficials",
             "Ambit": "Administració pública, govern i relacions institucionals",
@@ -98,62 +70,6 @@
             "Classificacio": "Pendent",
             "Data_publicacio": "26/07/2023",
             "Data_actualitzacio": "26/07/2023"
-        },
-        {
-            "Id": "dtarq165",
-            "Nom": "Tipus Documentals",
-            "Ambit": "Administració pública, govern i relacions institucionals",
-            "Subambit": "Funcionament de l'administració",
-            "Descripcio": "Llistat de tipus de documents definits per adaptar la Norma Tècnica d’Interoperabilitat de Document Electrònic (NTI) a l'administració de la Generalitat de Catalumya.",
-            "instancies": [
-                {
-                    "inom": "V00.01",
-                    "iestat": "Pendent",
-                    "itipus": "Tabular",
-                    "ipromotor": "Centre de Telecomunicacions i Tecnologies de la Informació (CTTI)",
-                    "idescripcio": "Versió inicial.",
-                    "ifitxer_doc": "Tipus_Documentals_ATR.docx",
-                    "ifitxer_xls": "Tipus_Documentals.xlsx",
-                    "idatacreacio": "14/12/2020",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
-                    "idatapublicacio": "22/12/2021",
-                    "iurl_dades_obertes": "",
-                    "itipusactualitzacio": "Sota demanda"
-                }
-            ],
-            "nom_dinsBD": "TIPUS_DOCUMENTALS",
-            "Classificacio": "Pendent",
-            "Data_publicacio": "22/12/2021",
-            "Data_actualitzacio": "22/12/2021"
-        },
-        {
-            "Id": "dtarq164",
-            "Nom": "Tipus NTI",
-            "Ambit": "Administració pública, govern i relacions institucionals",
-            "Subambit": "Funcionament de l'administració",
-            "Descripcio": "Llistat de tipus NTI amb la seva corresponent categoria NTI (Norma Tècnica d’Interoperabilitat de Document Electrònic) que s'utilitizen per determinar els diferents tipus documentals.",
-            "instancies": [
-                {
-                    "inom": "V00.01",
-                    "iestat": "Pendent",
-                    "itipus": "Tabular",
-                    "ipromotor": "Centre de Telecomunicacions i Tecnologies de la Informació (CTTI)",
-                    "idescripcio": "Versió inicial.",
-                    "ifitxer_doc": "Tipus_NTI_ATR.docx",
-                    "ifitxer_xls": "Tipus_NTI.xlsx",
-                    "idatacreacio": "14/12/2020",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
-                    "idatapublicacio": "22/12/2021",
-                    "iurl_dades_obertes": "",
-                    "itipusactualitzacio": "Sota demanda"
-                }
-            ],
-            "nom_dinsBD": "TIPUS_NTI",
-            "Classificacio": "Pendent",
-            "Data_publicacio": "22/12/2021",
-            "Data_actualitzacio": "22/12/2021"
         },
         {
             "Id": "dtarq161",
@@ -486,7 +402,7 @@
                 },
                 {
                     "inom": "V10",
-                    "iestat": "Vigent",
+                    "iestat": "Obsoleta",
                     "itipus": "Tabular",
                     "ipromotor": "Subdirecció General d'Organització de l'Administració i del Sector Públic",
                     "idescripcio": "Es modifica el nom de sis direccions generals d'identificador (id: 20885, 3421, 1116, 21691, 21688 i 21650), s'incorpora la direcció general \"Oficina d'Igualtat de Tracte i No-discriminació\" i s'elimina la direcció general d'identificador 21665.",
@@ -494,8 +410,23 @@
                     "ifitxer_xls": "Direccions_Generals.xlsx",
                     "idatacreacio": "20/12/2023",
                     "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
+                    "idataobsoleta": "27/03/2024",
                     "idatapublicacio": "20/12/2023",
+                    "iurl_dades_obertes": "",
+                    "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "V11",
+                    "iestat": "Vigent",
+                    "itipus": "Tabular",
+                    "ipromotor": "Subdirecció General d'Organització de l'Administració i del Sector Públic",
+                    "idescripcio": "La Direcció General d’Ecosistemes Forestals i Gestió del Medi passa a denominar-se Direcció General de Boscos i Gestió del Medi i La Direcció General de Qualitat Ambiental i Canvi Climàtic passa a denominar-se Direcció General de Canvi Climàtic i Qualitat Ambiental.",
+                    "ifitxer_doc": "Direccions_Generals_ATR.docx",
+                    "ifitxer_xls": "Direccions_Generals.xlsx",
+                    "idatacreacio": "27/03/2024",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "27/03/2024",
                     "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Sector-P%C3%BAblic/Direccions-generals/qh8m-68gu",
                     "itipusactualitzacio": "Sota demanda"
                 }
@@ -503,7 +434,7 @@
             "nom_dinsBD": "DIRECCIONS_GENERALS",
             "Classificacio": "Consolidat",
             "Data_publicacio": "20/01/2021",
-            "Data_actualitzacio": "20/12/2023"
+            "Data_actualitzacio": "27/03/2024"
         },
         {
             "Id": "dtarq192",
@@ -717,25 +648,25 @@
             "Descripcio": "Llistat de subdireccions generals de la Generalitat de Catalunya, especificant la secretaria o la direcció General de la qual depenen.",
             "instancies": [
                 {
-                    "inom": "V00.01",
-                    "iestat": "Pendent",
+                    "inom": "V01",
+                    "iestat": "Vigent",
                     "itipus": "Tabular",
                     "ipromotor": "Oficina d’Organització de l'Administració i del Sector Públic",
                     "idescripcio": "Versió inicial",
                     "ifitxer_doc": "Subdireccions_Generals_ATR.docx",
                     "ifitxer_xls": "Subdireccions_Generals.xlsx",
-                    "idatacreacio": "20/12/2023",
+                    "idatacreacio": "27/03/2024",
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "",
-                    "idatapublicacio": "20/12/2023",
-                    "iurl_dades_obertes": "",
+                    "idatapublicacio": "27/03/2024",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Sector-P-blic/Subdireccions-Generals/yb4q-ihtu",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
             "nom_dinsBD": "SUBDIRECCIONS_GENERALS",
-            "Classificacio": "Pendent",
-            "Data_publicacio": "20/12/2023",
-            "Data_actualitzacio": "20/12/2023"
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "27/03/2024",
+            "Data_actualitzacio": "27/03/2024"
         },
         {
             "Id": "dtarq90",
@@ -1092,7 +1023,7 @@
                 },
                 {
                     "inom": "CCPA-2014 - V01",
-                    "iestat": "OBSOLETA (Obligat compliment)",
+                    "iestat": "Vigent",
                     "itipus": "Tabular",
                     "ipromotor": "Institut d'Estadística de Catalunya (Idescat)",
                     "idescripcio": "Any 2014. Versió inicial.",
@@ -1100,24 +1031,9 @@
                     "ifitxer_xls": "CCPA_2014.xlsx",
                     "idatacreacio": "09/03/2020",
                     "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "2024-03-07",
+                    "idataobsoleta": "",
                     "idatapublicacio": "17/02/2020",
                     "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Ind%C3%BAstria/CCPA-2014/cvur-ezmm",
-                    "itipusactualitzacio": "Sota demanda"
-                },
-                {
-                    "inom": "prueba1",
-                    "iestat": "PUBLICADA (Obligat compliment)",
-                    "itipus": "Tabular",
-                    "ipromotor": "Departament de Justícia, Drets i Memòria - CTEAJE",
-                    "idescripcio": "Any 2014. Versió inicial.",
-                    "ifitxer_doc": "CCPA_2014_ATR.docx",
-                    "ifitxer_xls": "CCPA_2014.xlsx",
-                    "idatacreacio": "2024-03-06",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
-                    "idatapublicacio": "2024-03-07",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/7fx9-s3q7",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
@@ -1664,7 +1580,7 @@
             "instancies": [
                 {
                     "inom": "V01",
-                    "iestat": "OBSOLETA (Obligat compliment)",
+                    "iestat": "Vigent",
                     "itipus": "Tabular",
                     "ipromotor": "Direcció General de Modernització de l'Administració de Justícia - Departament de Justícia, Drets i Memòria",
                     "idescripcio": "Versió inicial.",
@@ -1672,39 +1588,9 @@
                     "ifitxer_xls": "Delictes.xlsx",
                     "idatacreacio": "25/04/2023",
                     "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "2024-03-07",
+                    "idataobsoleta": "",
                     "idatapublicacio": "28/06/2023",
                     "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Legislaci%C3%B3-just%C3%ADcia/Delictes/bm5b-6t6f",
-                    "itipusactualitzacio": "Sota demanda"
-                },
-                {
-                    "inom": "Prueba Presentacion",
-                    "iestat": "OBSOLETA (Obligat compliment)",
-                    "itipus": "Tabular",
-                    "ipromotor": "Direcció General de Modernització de l'Administració de Justícia - Departament de Justícia, Drets i Memòria",
-                    "idescripcio": "Versió inicial.",
-                    "ifitxer_doc": "Delictes_ATR.docx",
-                    "ifitxer_xls": "Delictes.xlsx",
-                    "idatacreacio": "2024-03-07",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "2024-03-07",
-                    "idatapublicacio": "2024-03-07",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/ph5f-eke9",
-                    "itipusactualitzacio": "Sota demanda"
-                },
-                {
-                    "inom": "Prueba Presentacion",
-                    "iestat": "PUBLICADA (Obligat compliment)",
-                    "itipus": "Tabular",
-                    "ipromotor": "Direcció General de Modernització de l'Administració de Justícia - Departament de Justícia, Drets i Memòria",
-                    "idescripcio": "Versió inicial.",
-                    "ifitxer_doc": "Delictes_ATR.docx",
-                    "ifitxer_xls": "Delictes.xlsx",
-                    "idatacreacio": "2024-03-07",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
-                    "idatapublicacio": "2024-03-07",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/nm9s-ianj",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
@@ -1993,7 +1879,7 @@
                 },
                 {
                     "inom": "V05",
-                    "iestat": "Vigent",
+                    "iestat": "Obsoleta",
                     "itipus": "Tabular",
                     "ipromotor": "Departament de Salut",
                     "idescripcio": "S'afegeix la geometria de cada ABS i s'actualitza el conjunt de valors segons la reestructuració de les regions sanitàries i els sectors sanitaris.",
@@ -2001,8 +1887,23 @@
                     "ifitxer_xls": "Arees_basiques_salut.csv",
                     "idatacreacio": "31/01/2024",
                     "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
+                    "idataobsoleta": "27/03/2024",
                     "idatapublicacio": "31/01/2024",
+                    "iurl_dades_obertes": "",
+                    "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "V06",
+                    "iestat": "Vigent",
+                    "itipus": "Tabular",
+                    "ipromotor": "Departament de Salut",
+                    "idescripcio": "Els canvis respecte de la versió anterior són només en el nom de tres ABS.106    CERVERA - LA SEGARRA,230    SANTA PERPÈTUA DE MOGODA,325    PINEDA DE MAR",
+                    "ifitxer_doc": "Arees_basiques_salut_ATR.docx",
+                    "ifitxer_xls": "Arees_basiques_salut.csv",
+                    "idatacreacio": "27/03/2024",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "27/03/2024",
                     "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Salut/%C3%80rees-b%C3%A0siques-salut/tqzv-uu8e",
                     "itipusactualitzacio": "Sota demanda"
                 }
@@ -2010,7 +1911,7 @@
             "nom_dinsBD": "AREES_BASIQUES_SALUT",
             "Classificacio": "Consolidat",
             "Data_publicacio": "27/04/2022",
-            "Data_actualitzacio": "31/01/2024"
+            "Data_actualitzacio": "27/03/2024"
         },
         {
             "Id": "dtarq158",
@@ -3514,7 +3415,7 @@
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "22/12/2021",
                     "idatapublicacio": "23/09/2020",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Pa%C3%AFsos/u6te-2guv",
+                    "iurl_dades_obertes": "",
                     "itipusactualitzacio": "Sota demanda"
                 },
                 {
@@ -3534,7 +3435,7 @@
                 },
                 {
                     "inom": "V03",
-                    "iestat": "Vigent",
+                    "iestat": "Obsoleta",
                     "itipus": "Tabular",
                     "ipromotor": "Institut d'Estadística de Catalunya (Idescat)",
                     "idescripcio": "Actualització per incorporar el nom en anglès i en castellà.",
@@ -3542,8 +3443,23 @@
                     "ifitxer_xls": "Paisos_ISOA2.xlsx",
                     "idatacreacio": "23/05/2023",
                     "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
+                    "idataobsoleta": "29/04/2024",
                     "idatapublicacio": "24/05/2023",
+                    "iurl_dades_obertes": "",
+                    "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "V04",
+                    "iestat": "Vigent",
+                    "itipus": "Tabular",
+                    "ipromotor": "Institut d'Estadística de Catalunya (Idescat)",
+                    "idescripcio": "Actualització per incorporar el codi de Regions del món UN M49 i els codis de les divises.",
+                    "ifitxer_doc": "Paisos_ATR.docx",
+                    "ifitxer_xls": "Paisos.xlsx",
+                    "idatacreacio": "23/05/2023",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "29/04/2024",
                     "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Pa%C3%AFsos/u6te-2guv",
                     "itipusactualitzacio": "Sota demanda"
                 }
@@ -3551,7 +3467,7 @@
             "nom_dinsBD": "PAISOS",
             "Classificacio": "Consolidat",
             "Data_publicacio": "26/05/2021",
-            "Data_actualitzacio": "24/05/2023"
+            "Data_actualitzacio": "29/04/2024"
         },
         {
             "Id": "dtarq189",
@@ -3562,7 +3478,7 @@
             "instancies": [
                 {
                     "inom": "V01",
-                    "iestat": "Vigent",
+                    "iestat": "Obsoleta",
                     "itipus": "Tabular",
                     "ipromotor": "Direcció General d'Indústria (Àrea d'Actuacions Industrials) - Departament d'Empresa i Treball",
                     "idescripcio": "Versió inicial.",
@@ -3572,6 +3488,21 @@
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "",
                     "idatapublicacio": "31/01/2024",
+                    "iurl_dades_obertes": "",
+                    "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "V02",
+                    "iestat": "Vigent",
+                    "itipus": "Tabular",
+                    "ipromotor": "Direcció General d'Indústria (Àrea d'Actuacions Industrials) - Departament d'Empresa i Treball",
+                    "idescripcio": "Des de la Direcció General d’Indústria ens fa arribar l’actualització trimestral de les dades dels Polígons industrials.- Eliminar els registres amb aquests codis:416004,425960,Perquè no apareixen en la nova llista i  afegir els següents:415917,426402,526806",
+                    "ifitxer_doc": "Poligons_Industrials_Catalunya_ATR.docx",
+                    "ifitxer_xls": "Poligons_Industrials_Catalunya.xlsx",
+                    "idatacreacio": "27/02/2024",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "27/03/2024",
                     "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Pol%C3%ADgons-industrials-de-Catalunya/5asc-f6cw",
                     "itipusactualitzacio": "Sota demanda"
                 }
@@ -3579,7 +3510,7 @@
             "nom_dinsBD": "POLIGONS_INDUSTRIALS_CATALUNYA",
             "Classificacio": "Consolidat",
             "Data_publicacio": "31/01/2024",
-            "Data_actualitzacio": "31/01/2024"
+            "Data_actualitzacio": "27/03/2024"
         },
         {
             "Id": "dtarq85",
@@ -3623,34 +3554,6 @@
             "Classificacio": "Consolidat",
             "Data_publicacio": "20/04/2020",
             "Data_actualitzacio": "22/12/2021"
-        },
-        {
-            "Id": "dtarq902",
-            "Nom": "Regions del món",
-            "Ambit": "Territori, infraestructures i urbanisme",
-            "Subambit": "Ordenació del territori, paisatge i urbanisme",
-            "Descripcio": "Llista de regions del món relacionades amb el continent a on pertanyen.",
-            "instancies": [
-                {
-                    "inom": "V00.01",
-                    "iestat": "Pendent",
-                    "itipus": "Tabular",
-                    "ipromotor": "Centre de Telecomunicacions i Tecnologies de la Informació (CTTI)",
-                    "idescripcio": "Versió inicial.",
-                    "ifitxer_doc": "Codis_Territori_Regions_mon_ATR.docx",
-                    "ifitxer_xls": "Codis_Territori_Regions_mon.xlsx",
-                    "idatacreacio": "07/06/2019",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
-                    "idatapublicacio": "21/06/2019",
-                    "iurl_dades_obertes": "",
-                    "itipusactualitzacio": "Sota demanda"
-                }
-            ],
-            "nom_dinsBD": "REGIONS_MON",
-            "Classificacio": "Pendent",
-            "Data_publicacio": "21/06/2019",
-            "Data_actualitzacio": "21/06/2019"
         },
         {
             "Id": "dtarq130",
@@ -3734,7 +3637,7 @@
                 },
                 {
                     "inom": "V04",
-                    "iestat": "OBSOLETA (Obligat compliment)",
+                    "iestat": "Vigent",
                     "itipus": "Tabular",
                     "ipromotor": "Institut Cartogràfic i Geològic de Catalunya (ICGC)",
                     "idescripcio": "S'incorporen 4 nous valors.",
@@ -3742,24 +3645,9 @@
                     "ifitxer_xls": "Tipus_Via.xlsx",
                     "idatacreacio": "24/10/2023",
                     "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "2023-10-25",
+                    "idataobsoleta": "",
                     "idatapublicacio": "31/01/2024",
                     "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Tipus-de-via/gjnk-vmhw",
-                    "itipusactualitzacio": "Sota demanda"
-                },
-                {
-                    "inom": "V03",
-                    "iestat": "PUBLICADA (Obligat compliment)",
-                    "itipus": "Tabular",
-                    "ipromotor": "Institut Cartogràfic i Geològic de Catalunya (ICGC)",
-                    "idescripcio": "S'incorporen nous valors, s'afegeix l’atribut Idioma i la traducció de tots els valors a l'occità – aranès.",
-                    "ifitxer_doc": "Tipus_Via_ATR.docx",
-                    "ifitxer_xls": "Tipus_Via.xlsx",
-                    "idatacreacio": "2023-10-24",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
-                    "idatapublicacio": "2023-10-25",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/wtaj-b8cd",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
@@ -4420,6 +4308,146 @@
             "Classificacio": "Consolidat",
             "Data_publicacio": "26/02/2024",
             "Data_actualitzacio": "26/02/2024"
+        },
+        {
+            "Id": "dtarq196",
+            "Nom": "Àrees Territorials de l’àmbit educatiu",
+            "Ambit": "Educació, formació i universitats",
+            "Subambit": "Centres i serveis educatius (no universitaris)",
+            "Descripcio": "Delimitació de les dotze àrees territorials en els quals s'organitza territorialment el Departament d’Educació vigents des del curs 2022-2023.",
+            "instancies": [
+                {
+                    "inom": "V01",
+                    "iestat": "Vigent",
+                    "itipus": "Tabular",
+                    "ipromotor": "Departament d'Educació",
+                    "idescripcio": "Versió inicial.",
+                    "ifitxer_doc": "Àrees_Territorials_ambit_educatiu_ATR.docx",
+                    "ifitxer_xls": "Àrees_Territorials_ambit_educatiu.xlsx",
+                    "idatacreacio": "27/03/2024",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "27/03/2024",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Educaci-/Delimitaci-dels-serveis-territorials-del-Departame/ne55-4fc5",
+                    "itipusactualitzacio": "Sota demanda"
+                }
+            ],
+            "nom_dinsBD": "ÀREES_TERRITORIALS_AMBIT_EDUCATIU",
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "27/03/2024",
+            "Data_actualitzacio": "27/03/2024"
+        },
+		{
+            "Id": "dtarq198",
+            "Nom": "Divises",
+            "Ambit": "Economia",
+            "Subambit": "Caixes estalvis, banca, assegurances i mutualitats",
+            "Descripcio": "Entitat que conté les diferents divises utilitzades arreu del món, seguint la ISO 4217.",
+            "instancies": [
+                {
+                    "inom": "V01",
+                    "iestat": "Vigent",
+                    "itipus": "Tabular",
+                    "ipromotor": "DGAD - GTD Gestió tècnica de la dada",
+                    "idescripcio": "Versió inicial.",
+                    "ifitxer_doc": "Divises_ATR.docx",
+                    "ifitxer_xls": "Divises.xlsx",
+                    "idatacreacio": "29/04/2024",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "29/04/2024",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Economia/Divises/q7v6-9kay",
+                    "itipusactualitzacio": "Sota demanda"
+                }
+            ],
+            "nom_dinsBD": "DIVISES",
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "29/04/2024",
+            "Data_actualitzacio": "29/04/2024"
+        },
+		{
+            "Id": "dtarq199",
+            "Nom": "Entitats bancàries",
+            "Ambit": "Economia",
+            "Subambit": "Caixes estalvis, banca, assegurances i mutualitats",
+            "Descripcio": "Llista d'entitats bancàries que operen en l'estat espanyol.",
+            "instancies": [
+                {
+                    "inom": "V01",
+                    "iestat": "Vigent",
+                    "itipus": "Tabular",
+                    "ipromotor": "DGAD - GTD Gestió tècnica de la dada",
+                    "idescripcio": "Versió inicial.",
+                    "ifitxer_doc": "ENTITATS_BANCARIES_ATR.docx",
+                    "ifitxer_xls": "ENTITATS_BANCARIES.xlsx",
+                    "idatacreacio": "29/04/2024",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "29/04/2024",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Economia/Entitats-banc-ries/8wem-rrki",
+                    "itipusactualitzacio": "Sota demanda"
+                }
+            ],
+            "nom_dinsBD": "ENTITATS_BANCARIES",
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "29/04/2024",
+            "Data_actualitzacio": "29/04/2024"
+        },
+        {
+            "Id": "dtarq197",
+            "Nom": "Regions del món",
+            "Ambit": "Territori, infraestructures i urbanisme",
+            "Subambit": "Ordenació del territori, paisatge i urbanisme",
+            "Descripcio": "Llistat de les regions del món, seguint els Codis Estàndard de País o d'Àrea per a Ús Estadístic de les Nacions Unides, Sèrie M, núm. 49. (UN-M49).",
+            "instancies": [
+                {
+                    "inom": "V01",
+                    "iestat": "Vigent",
+                    "itipus": "Tabular",
+                    "ipromotor": "DGAD - GTD Gestió tècnica de la dada",
+                    "idescripcio": "Versió inicial.",
+                    "ifitxer_doc": "Regions_mon_ATR.docx",
+                    "ifitxer_xls": "Regions_mon.xlsx",
+                    "idatacreacio": "07/06/2019",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "29/04/2024",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Regions-del-m-n/693j-aqiw",
+                    "itipusactualitzacio": "Sota demanda"
+                }
+            ],
+            "nom_dinsBD": "REGIONS_MON",
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "29/04/2024",
+            "Data_actualitzacio": "29/04/2024"
+        },
+        {
+            "Id": "dtarq104",
+            "Nom": "Àmbits territorials de planificació",
+            "Ambit": "Territori, infraestructures i urbanisme",
+            "Subambit": "Ordenació del territori , paisatge i urbanisme",
+            "Descripcio": "Àmbits territorials de planificació, 7 arees",
+            "instancies": [
+                {
+                    "inom": "V00.01",
+                    "iestat": "Pendent",
+                    "itipus": "Tabular",
+                    "ipromotor": "DGAD",
+                    "idescripcio": "Versió inicial",
+                    "ifitxer_doc": "Ambits_territorials_planificacio_ATR.docx",
+                    "ifitxer_xls": "",
+                    "idatacreacio": "29/04/2024",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "29/04/2024",
+                    "iurl_dades_obertes": "",
+                    "itipusactualitzacio": "Sota demanda"
+                }
+            ],
+            "nom_dinsBD": "AMBIT_TERRITORIALS_PLANIFICACIO",
+            "Classificacio": "Pendent",
+            "Data_publicacio": "29/04/2024",
+            "Data_actualitzacio": "29/04/2024"
         }
     ]
 }
