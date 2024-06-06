@@ -1580,7 +1580,7 @@
             "instancies": [
                 {
                     "inom": "V01",
-                    "iestat": "Vigent",
+                    "iestat": "Obsoleta",
                     "itipus": "Tabular",
                     "ipromotor": "Direcció General de Modernització de l'Administració de Justícia - Departament de Justícia, Drets i Memòria",
                     "idescripcio": "Versió inicial.",
@@ -1588,9 +1588,24 @@
                     "ifitxer_xls": "Delictes.xlsx",
                     "idatacreacio": "25/04/2023",
                     "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
+                    "idataobsoleta": "2024-05-27",
                     "idatapublicacio": "28/06/2023",
                     "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Legislaci%C3%B3-just%C3%ADcia/Delictes/bm5b-6t6f",
+                    "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "V01",
+                    "iestat": "Publicada",
+                    "itipus": "Tabular",
+                    "ipromotor": "Departament de Justícia, Drets i Memòria - CTEAJE",
+                    "idescripcio": "Versió inicial.",
+                    "ifitxer_doc": "Sexe_ATR.docx",
+                    "ifitxer_xls": "Sexe.xlsx",
+                    "idatacreacio": "2021-03-31",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "2021-03-31",
+                    "iurl_dades_obertes": "",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
@@ -4337,7 +4352,7 @@
             "Data_publicacio": "27/03/2024",
             "Data_actualitzacio": "27/03/2024"
         },
-		{
+        {
             "Id": "dtarq198",
             "Nom": "Divises",
             "Ambit": "Economia",
@@ -4365,7 +4380,7 @@
             "Data_publicacio": "29/04/2024",
             "Data_actualitzacio": "29/04/2024"
         },
-		{
+        {
             "Id": "dtarq199",
             "Nom": "Entitats bancàries",
             "Ambit": "Economia",
@@ -4448,6 +4463,62 @@
             "Classificacio": "Pendent",
             "Data_publicacio": "29/04/2024",
             "Data_actualitzacio": "29/04/2024"
+        },
+        {
+            "Id": "dtarq142",
+            "Nom": "Sexe",
+            "Ambit": "Societat i ciutadania",
+            "Subambit": "Polítiques de gènere i igualtat",
+            "Descripcio": "Llista de grups en què es divideixen els individus d’una espècie en mascles i femelles, segons un conjunt de peculiaritats biològiques, fisiològiques i orgàniques.",
+            "instancies": [
+                {
+                    "inom": "V01",
+                    "iestat": "Publicada",
+                    "itipus": "Tabular",
+                    "ipromotor": "Departament de Justícia, Drets i Memòria - CTEAJE",
+                    "idescripcio": "Versió inicial.",
+                    "ifitxer_doc": "Sexe_ATR.docx",
+                    "ifitxer_xls": "Sexe.xlsx",
+                    "idatacreacio": "2021-03-31",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "2021-03-31",
+                    "iurl_dades_obertes": "",
+                    "itipusactualitzacio": "Sota demanda"
+                }
+            ],
+            "nom_dinsBD": "SEXE",
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "2021-03-31",
+            "Data_actualitzacio": "2021-03-31"
+        },
+        {
+            "Id": "dtarq142",
+            "Nom": "Sexe",
+            "Ambit": "Societat i ciutadania",
+            "Subambit": "Polítiques de gènere i igualtat",
+            "Descripcio": "Llista de grups en què es divideixen els individus d’una espècie en mascles i femelles, segons un conjunt de peculiaritats biològiques, fisiològiques i orgàniques.",
+            "instancies": [
+                {
+                    "inom": "V01",
+                    "iestat": "Publicada",
+                    "itipus": "Tabular",
+                    "ipromotor": "Departament de Justícia, Drets i Memòria - CTEAJE",
+                    "idescripcio": "Versió inicial.",
+                    "ifitxer_doc": "Sexe_ATR.docx",
+                    "ifitxer_xls": "Sexe.xlsx",
+                    "idatacreacio": "2021-03-31",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "2021-03-31",
+                    "iurl_dades_obertes": "",
+                    "itipusactualitzacio": "Sota demanda"
+                }
+            ],
+            "nom_dinsBD": "SEXE",
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "2021-03-31",
+            "Data_actualitzacio": "2021-03-31"
         }
     ]
 }
