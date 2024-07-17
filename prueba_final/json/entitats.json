@@ -1625,6 +1625,21 @@
                 },
                 {
                     "inom": "V02",
+                    "iestat": "Obsoleta",
+                    "itipus": "Tabular",
+                    "ipromotor": "Direcció General de Modernització de l'Administració de Justícia - Departament de Justícia, Drets i Memòria",
+                    "idescripcio": "Versió inicial.",
+                    "ifitxer_doc": "Delictes_ATR.docx",
+                    "ifitxer_xls": "Delictes.xlsx",
+                    "idatacreacio": "2024-05-23",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "2024-05-27",
+                    "idatapublicacio": "2024-07-17",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/kxuh-zuie",
+                    "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "V02",
                     "iestat": "Publicada",
                     "itipus": "Tabular",
                     "ipromotor": "Direcció General de Modernització de l'Administració de Justícia - Departament de Justícia, Drets i Memòria",
@@ -1635,7 +1650,7 @@
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "",
                     "idatapublicacio": "2024-07-17",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/kxuh-zuie",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/p4yb-d8bg",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
@@ -2672,7 +2687,7 @@
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "",
                     "idatapublicacio": "2021-03-31",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/8w8j-ms8a",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/k5kv-x5cj",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
