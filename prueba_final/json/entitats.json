@@ -1610,6 +1610,21 @@
                 },
                 {
                     "inom": "V02",
+                    "iestat": "Obsoleta",
+                    "itipus": "Tabular",
+                    "ipromotor": "Direcció General de Modernització de l'Administració de Justícia - Departament de Justícia, Drets i Memòria",
+                    "idescripcio": "Versió inicial.",
+                    "ifitxer_doc": "Delictes_ATR.docx",
+                    "ifitxer_xls": "Delictes.xlsx",
+                    "idatacreacio": "2024-05-23",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "2024-05-27",
+                    "idatapublicacio": "2024-07-12",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/tpg4-cb63",
+                    "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "V02",
                     "iestat": "Publicada",
                     "itipus": "Tabular",
                     "ipromotor": "Direcció General de Modernització de l'Administració de Justícia - Departament de Justícia, Drets i Memòria",
@@ -1619,8 +1634,8 @@
                     "idatacreacio": "2024-05-23",
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "",
-                    "idatapublicacio": "2024-07-12",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/tpg4-cb63",
+                    "idatapublicacio": "2024-07-17",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/kxuh-zuie",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
@@ -2647,24 +2662,24 @@
             "instancies": [
                 {
                     "inom": "V01",
-                    "iestat": "Vigent",
+                    "iestat": "Publicada",
                     "itipus": "Tabular",
-                    "ipromotor": "Institut d'Estadística de Catalunya (Idescat)",
+                    "ipromotor": "Departament de Justícia, Drets i Memòria - CTEAJE",
                     "idescripcio": "Versió inicial.",
                     "ifitxer_doc": "Sexe_ATR.docx",
                     "ifitxer_xls": "Sexe.xlsx",
-                    "idatacreacio": "31/03/2021",
+                    "idatacreacio": "2021-03-31",
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "",
-                    "idatapublicacio": "31/03/2021",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Societat-benestar/Sexe/in7g-gc2u",
+                    "idatapublicacio": "2021-03-31",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/8w8j-ms8a",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
             "nom_dinsBD": "SEXE",
             "Classificacio": "Consolidat",
-            "Data_publicacio": "31/03/2021",
-            "Data_actualitzacio": "31/03/2021"
+            "Data_publicacio": "2021-03-31",
+            "Data_actualitzacio": "2021-03-31"
         },
         {
             "Id": "dtarq134",
