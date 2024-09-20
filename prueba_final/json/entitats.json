@@ -2692,6 +2692,21 @@
                 },
                 {
                     "inom": "test",
+                    "iestat": "Obsoleta",
+                    "itipus": "Tabular",
+                    "ipromotor": "Departament de Justícia, Drets i Memòria - CTEAJE",
+                    "idescripcio": "Versió inicial.",
+                    "ifitxer_doc": "Sexe_ATR.docx",
+                    "ifitxer_xls": "Sexe.xlsx",
+                    "idatacreacio": "2024-09-03",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "2024-09-03",
+                    "idatapublicacio": "2024-09-03",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/x9e6-mp93",
+                    "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "test",
                     "iestat": "Publicada",
                     "itipus": "Tabular",
                     "ipromotor": "Departament de Justícia, Drets i Memòria - CTEAJE",
@@ -2702,7 +2717,7 @@
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "",
                     "idatapublicacio": "2024-09-03",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/x9e6-mp93",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/qm7a-v9hr",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
