@@ -4551,6 +4551,34 @@
             "Classificacio": "Consolidat",
             "Data_publicacio": "2024-10-14",
             "Data_actualitzacio": "2024-10-14"
+        },
+        {
+            "Id": "1",
+            "Nom": "TestKubernetes",
+            "Ambit": "Administració pública, govern i relacions institucionals",
+            "Subambit": "Funcionament de l'administració (règim jurídic, funció pública, procediment administratiu, contractació pública, expropiació, responsabilitat patrimonial, administració digital, etc.)",
+            "Descripcio": "s",
+            "instancies": [
+                {
+                    "inom": "V01",
+                    "iestat": "Publicada",
+                    "itipus": "Tabular",
+                    "ipromotor": "Centre de Telecomunicacions i Tecnologies de la Informació (CTTI)",
+                    "idescripcio": "s",
+                    "ifitxer_doc": "",
+                    "ifitxer_xls": "",
+                    "idatacreacio": "2024-10-15",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "2024-10-15",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/297f-yqch",
+                    "itipusactualitzacio": "Sota demanda"
+                }
+            ],
+            "nom_dinsBD": "TESTKUBERNETES",
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "2024-10-15",
+            "Data_actualitzacio": "2024-10-15"
         }
     ]
 }
