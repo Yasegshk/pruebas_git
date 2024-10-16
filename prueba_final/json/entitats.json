@@ -2684,32 +2684,32 @@
             "Data_actualitzacio": "23/02/2022"
         },
         {
-            "Id": "dtarq142",
+            "Id": "dtarq111",
             "Nom": "Sexe",
             "Ambit": "Societat i ciutadania",
             "Subambit": "Polítiques de gènere i igualtat",
             "Descripcio": "Llista de grups en què es divideixen els individus d’una espècie en mascles i femelles, segons un conjunt de peculiaritats biològiques, fisiològiques i orgàniques.",
             "instancies": [
                 {
-                    "inom": "V01",
+                    "inom": "test",
                     "iestat": "Publicada",
                     "itipus": "Tabular",
                     "ipromotor": "Departament de Justícia, Drets i Memòria - CTEAJE",
                     "idescripcio": "Versió inicial.",
                     "ifitxer_doc": "Sexe_ATR.docx",
                     "ifitxer_xls": "Sexe.xlsx",
-                    "idatacreacio": "2021-03-31",
+                    "idatacreacio": "2024-09-03",
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "",
-                    "idatapublicacio": "2021-03-31",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/k5kv-x5cj",
+                    "idatapublicacio": "2024-10-02",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/ec68-3dp6",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
             "nom_dinsBD": "SEXE",
             "Classificacio": "Consolidat",
-            "Data_publicacio": "2021-03-31",
-            "Data_actualitzacio": "2021-03-31"
+            "Data_publicacio": "2024-10-02",
+            "Data_actualitzacio": "2024-10-02"
         },
         {
             "Id": "dtarq134",
