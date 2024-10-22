@@ -445,21 +445,6 @@
             "instancies": [
                 {
                     "inom": "V01",
-                    "iestat": "Obsoleta",
-                    "itipus": "Tabular",
-                    "ipromotor": "Direcció General del Patrimoni de la Generalitat de Catalunya - Departament d'Economia i Hisenda",
-                    "idescripcio": "Versió inicial.",
-                    "ifitxer_doc": "Entitats_sector_public_ATR.docx",
-                    "ifitxer_xls": "deprecated/Entitats_sector_public_V01.xlsx",
-                    "idatacreacio": "25/10/2023",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "31/01/2024",
-                    "idatapublicacio": "29/11/2023",
-                    "iurl_dades_obertes": "",
-                    "itipusactualitzacio": "Sota demanda"
-                },
-                {
-                    "inom": "V01",
                     "iestat": "Publicada",
                     "itipus": "Tabular",
                     "ipromotor": "Direcció General del Patrimoni de la Generalitat de Catalunya - Departament d'Economia i Hisenda",
