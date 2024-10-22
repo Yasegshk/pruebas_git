@@ -457,6 +457,21 @@
                     "idatapublicacio": "2023-11-29",
                     "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/jaej-ne9e",
                     "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "test",
+                    "iestat": "Vigent",
+                    "itipus": "Tabular",
+                    "ipromotor": "Direcció General del Patrimoni de la Generalitat de Catalunya - Departament d'Economia i Hisenda",
+                    "idescripcio": "Versió inicial.",
+                    "ifitxer_doc": "Entitats_sector_public_ATR.docx",
+                    "ifitxer_xls": "Entitats_sector_public.xlsx",
+                    "idatacreacio": "2023-10-25",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "2023-11-29",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/jaej-ne9e",
+                    "itipusactualitzacio": "Sota demanda"
                 }
             ],
             "nom_dinsBD": "ENTITATS_SECTOR_PUBLIC",
