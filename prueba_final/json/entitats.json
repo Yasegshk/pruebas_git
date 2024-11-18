@@ -4609,6 +4609,34 @@
             "Classificacio": "Consolidat",
             "Data_publicacio": "2024-10-15",
             "Data_actualitzacio": "2024-10-15"
+        },
+        {
+            "Id": "123",
+            "Nom": "PREPRODUCCIO TEST YASAIRA",
+            "Ambit": "Administració pública, govern i relacions institucionals",
+            "Subambit": "Acció de govern i normativa. desplegament de l'autogovern",
+            "Descripcio": "A",
+            "instancies": [
+                {
+                    "inom": "V01",
+                    "iestat": "Publicada",
+                    "itipus": "Tabular",
+                    "ipromotor": "Catàleg Tècnic de Dades - Departament d'Empresa i Treball - Sub. Gral. de  Subdirecció General de Relacions Laborals i Qualitat en el Treball",
+                    "idescripcio": "A",
+                    "ifitxer_doc": "test.docx",
+                    "ifitxer_xls": "test.xlsx",
+                    "idatacreacio": "2024-11-18",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "2024-11-18",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/vzww-59q9",
+                    "itipusactualitzacio": "Sota demanda"
+                }
+            ],
+            "nom_dinsBD": "PREPRODUCCIO_TEST_YASAIRA",
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "2024-11-18",
+            "Data_actualitzacio": "2024-11-18"
         }
     ]
 }
