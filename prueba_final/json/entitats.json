@@ -4731,6 +4731,21 @@
             "instancies": [
                 {
                     "inom": "V01",
+                    "iestat": "Obsoleta",
+                    "itipus": "Tabular",
+                    "ipromotor": "Altres/Diversos",
+                    "idescripcio": "test",
+                    "ifitxer_doc": "",
+                    "ifitxer_xls": "",
+                    "idatacreacio": "2024-12-16",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "2024-12-16",
+                    "idatapublicacio": "2024-12-16",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/cwwu-tyc2",
+                    "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "V02",
                     "iestat": "Publicada",
                     "itipus": "Tabular",
                     "ipromotor": "Altres/Diversos",
@@ -4741,7 +4756,7 @@
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "",
                     "idatapublicacio": "2024-12-16",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/cwwu-tyc2",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/unx9-twiy",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
