@@ -4693,6 +4693,34 @@
             "Classificacio": "Consolidat",
             "Data_publicacio": "2024-11-21",
             "Data_actualitzacio": "2024-11-21"
+        },
+        {
+            "Id": "123",
+            "Nom": "Pre Test2",
+            "Ambit": "Administració pública, govern i relacions institucionals",
+            "Subambit": "Acció de govern i normativa. desplegament de l'autogovern",
+            "Descripcio": "test",
+            "instancies": [
+                {
+                    "inom": "V01",
+                    "iestat": "Publicada",
+                    "itipus": "Tabular",
+                    "ipromotor": "Altres/Diversos",
+                    "idescripcio": "test",
+                    "ifitxer_doc": "test.docx",
+                    "ifitxer_xls": "test.xlsx",
+                    "idatacreacio": "2024-12-16",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "2024-12-16",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/5kwj-jzhr",
+                    "itipusactualitzacio": "Sota demanda"
+                }
+            ],
+            "nom_dinsBD": "PRE_TEST2",
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "2024-12-16",
+            "Data_actualitzacio": "2024-12-16"
         }
     ]
 }
