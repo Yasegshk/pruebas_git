@@ -4698,11 +4698,11 @@
             "Id": "123",
             "Nom": "Pre Test2",
             "Ambit": "Administració pública, govern i relacions institucionals",
-            "Subambit": "Acció de govern i normativa. desplegament de l'autogovern",
+            "Subambit": "Funcionament de l'administració (règim jurídic, funció pública, procediment administratiu, contractació pública, expropiació, responsabilitat patrimonial, administració digital, etc.)",
             "Descripcio": "test",
             "instancies": [
                 {
-                    "inom": "V01",
+                    "inom": "V02",
                     "iestat": "Publicada",
                     "itipus": "Tabular",
                     "ipromotor": "Altres/Diversos",
