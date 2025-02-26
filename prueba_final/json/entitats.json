@@ -4779,6 +4779,34 @@
             "Classificacio": "Consolidat",
             "Data_publicacio": "2024-12-16",
             "Data_actualitzacio": "2024-12-16"
+        },
+        {
+            "Id": "123",
+            "Nom": "xhh",
+            "Ambit": "Administració pública, govern i relacions institucionals",
+            "Subambit": "Acció de govern i normativa. desplegament de l'autogovern",
+            "Descripcio": "test",
+            "instancies": [
+                {
+                    "inom": "V01",
+                    "iestat": "Obsoleta",
+                    "itipus": "Tabular",
+                    "ipromotor": "Altres/Diversos",
+                    "idescripcio": "test",
+                    "ifitxer_doc": "",
+                    "ifitxer_xls": "",
+                    "idatacreacio": "2024-12-16",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "2024-12-16",
+                    "idatapublicacio": "2024-12-16",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/cwwu-tyc2",
+                    "itipusactualitzacio": "Sota demanda"
+                }
+            ],
+            "nom_dinsBD": "COMISSIONATS",
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "2024-12-16",
+            "Data_actualitzacio": "2024-12-16"
         }
     ]
 }
