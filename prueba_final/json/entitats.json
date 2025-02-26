@@ -4812,9 +4812,24 @@
                     "ifitxer_xls": "",
                     "idatacreacio": "2025-02-25",
                     "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
+                    "idataobsoleta": "2025-01-31",
                     "idatapublicacio": "2025-02-25",
                     "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/q2rv-rib7",
+                    "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "V02",
+                    "iestat": "Publicada",
+                    "itipus": "Tabular",
+                    "ipromotor": "Subdirecció General d'Organització de l'Administració i del Sector Públic",
+                    "idescripcio": "Actualització nom i descripció de la Dada de referència",
+                    "ifitxer_doc": "",
+                    "ifitxer_xls": "",
+                    "idatacreacio": "2025-02-25",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "2025-02-25",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/h5by-s9rp",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
