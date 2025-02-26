@@ -5477,24 +5477,9 @@
                     "ifitxer_xls": "COMISSIONATS.xlsx",
                     "idatacreacio": "19/12/2024",
                     "itipusvisual": "19/12/2024",
-                    "idataobsoleta": "2025-02-26",
+                    "idataobsoleta": "",
                     "idatapublicacio": "19/12/2024",
                     "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Sector-P-blic/Comissionats/sv5v-y7k7/about_data",
-                    "itipusactualitzacio": "Sota demanda"
-                },
-                {
-                    "inom": "V02",
-                    "iestat": "Publicada",
-                    "itipus": "Tabular",
-                    "ipromotor": "Subdirecció General d'Organització de l'Administració i del Sector Públic",
-                    "idescripcio": "Actualització nom i descripció de la Dada de referència",
-                    "ifitxer_doc": "COMISSIONATS_ATR.docx",
-                    "ifitxer_xls": "COMISSIONATS.xlsx",
-                    "idatacreacio": "2025-02-26",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
-                    "idatapublicacio": "2025-02-26",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/wzpi-6mt3",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
