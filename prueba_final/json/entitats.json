@@ -5462,10 +5462,10 @@
         },
         {
             "Id": "dtarq212",
-            "Nom": "Comissionats",
-            "Ambit": "Administració pública",
+            "Nom": "Comissionats de l’Administració de la Generalitat de Catalunya",
+            "Ambit": "Administració pública, govern i relacions institucionals",
             "Subambit": "Organització de l'administració i sector públic",
-            "Descripcio": "Llistat de comissionats d'àmbit d'actuació específic de l'Administració de la Generalitat de Catalunya.",
+            "Descripcio": "Els Comissionats són alts càrrecs que depenen del titular del departament i tindran les funcions i estructura que prevegi la seva norma de creació. Poden assistir a reunions del Govern.",
             "instancies": [
                 {
                     "inom": "V01",
@@ -5493,15 +5493,15 @@
                     "idatacreacio": "2025-02-26",
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "",
-                    "idatapublicacio": "2025-02-26",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/hmak-2s3c",
+                    "idatapublicacio": "2025-02-27",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/673r-yhyb",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
             "nom_dinsBD": "COMISSIONATS",
             "Classificacio": "Consolidat",
-            "Data_publicacio": "2025-02-26",
-            "Data_actualitzacio": "2025-02-26"
+            "Data_publicacio": "2025-02-27",
+            "Data_actualitzacio": "2025-02-27"
         },
         {
             "Id": "dtarq213",
