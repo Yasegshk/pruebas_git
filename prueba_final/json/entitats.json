@@ -5810,34 +5810,6 @@
             "Classificacio": "Consolidat",
             "Data_publicacio": "29/01/2025",
             "Data_actualitzacio": "29/01/2025"
-        },
-        {
-            "Id": "xxxxxx",
-            "Nom": "[PRE] - Test listas",
-            "Ambit": "Agricultura, ramaderia, pesca i alimentació",
-            "Subambit": "Agricultura i ramaderia",
-            "Descripcio": "Test listas",
-            "instancies": [
-                {
-                    "inom": "V01",
-                    "iestat": "Vigent",
-                    "itipus": "Tabular",
-                    "ipromotor": "Agència de Residus de Catalunya",
-                    "idescripcio": "Test listas",
-                    "ifitxer_doc": "",
-                    "ifitxer_xls": "",
-                    "idatacreacio": "21/05/2025",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
-                    "idatapublicacio": "21/05/2025",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/qxxt-qjyg",
-                    "itipusactualitzacio": "Sota demanda"
-                }
-            ],
-            "nom_dinsBD": "PRE__TEST_LISTAS",
-            "Classificacio": "Consolidat",
-            "Data_publicacio": "21/05/2025",
-            "Data_actualitzacio": "21/05/2025"
         }
     ]
 }
