@@ -5484,39 +5484,24 @@
                 },
                 {
                     "inom": "V02",
-                    "iestat": "Obsoleta",
-                    "itipus": "Tabular",
-                    "ipromotor": "Subdirecció General d'Organització de l'Administració i del Sector Públic",
-                    "idescripcio": "Actualització nom i descripció de la Dada de referència",
-                    "ifitxer_doc": "deprecated/COMISSIONATS_ATR.docx",
-                    "ifitxer_xls": "deprecated/COMISSIONATS.xlsx",
-                    "idatacreacio": "2025-02-26",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "24/03/2025",
-                    "idatapublicacio": "2025-02-27",
-                    "iurl_dades_obertes": "",
-                    "itipusactualitzacio": "Sota demanda"
-                },
-                {
-                    "inom": "test",
-                    "iestat": "Vigent",
+                    "iestat": "Publicada",
                     "itipus": "Tabular",
                     "ipromotor": "Subdirecció General d'Organització de l'Administració i del Sector Públic",
                     "idescripcio": "Actualització nom i descripció de la Dada de referència",
                     "ifitxer_doc": "COMISSIONATS_ATR.docx",
                     "ifitxer_xls": "COMISSIONATS.xlsx",
-                    "idatacreacio": "24/03/2025",
+                    "idatacreacio": "2025-02-26",
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "",
-                    "idatapublicacio": "24/03/2025",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/pskp-am3i",
+                    "idatapublicacio": "2025-02-27",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/673r-yhyb",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
             "nom_dinsBD": "COMISSIONATS",
             "Classificacio": "Consolidat",
             "Data_publicacio": "2025-02-27",
-            "Data_actualitzacio": "24/03/2025"
+            "Data_actualitzacio": "2025-02-27"
         },
         {
             "Id": "dtarq213",
@@ -5825,6 +5810,34 @@
             "Classificacio": "Consolidat",
             "Data_publicacio": "29/01/2025",
             "Data_actualitzacio": "29/01/2025"
+        },
+        {
+            "Id": "dtarq169",
+            "Nom": "Classificació empresarial subgrups",
+            "Ambit": "Economia",
+            "Subambit": "Empresa i sector econòmic",
+            "Descripcio": "Llista d'activitats especifiques que realitzen les empreses que opten a contractes administratius d'obres o de serveis. ",
+            "instancies": [
+                {
+                    "inom": "V01",
+                    "iestat": "Vigent",
+                    "itipus": "Tabular",
+                    "ipromotor": "Junta Consultiva de Contractació Administrativa - Departament d'Economia i Hisenda",
+                    "idescripcio": "Versió inicial.",
+                    "ifitxer_doc": "Classificacio_empresarial_subgrups_ATR.docx",
+                    "ifitxer_xls": "Classificacio_empresarial_subgrups.xlsx",
+                    "idatacreacio": "11/12/2020",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "23/02/2022",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Economia/Classificaci%C3%B3-empresarial-subgrups/77uc-c84x",
+                    "itipusactualitzacio": "Sota demanda"
+                }
+            ],
+            "nom_dinsBD": "CLASSIFICACIO_EMPRESARIAL_SUBGRUPS",
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "23/02/2022",
+            "Data_actualitzacio": "23/02/2022"
         }
     ]
 }
