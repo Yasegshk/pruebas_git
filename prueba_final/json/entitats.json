@@ -5810,34 +5810,6 @@
             "Classificacio": "Consolidat",
             "Data_publicacio": "29/01/2025",
             "Data_actualitzacio": "29/01/2025"
-        },
-        {
-            "Id": "dtarq2009",
-            "Nom": "Clasificación Nacional de Actividades Económicas",
-            "Ambit": "Finances públiques i hisenda",
-            "Subambit": "Control financer i fiscalitat",
-            "Descripcio": "Utilización exclusiva para ficheros IDC e ITA a partir de 01.01.2009",
-            "instancies": [
-                {
-                    "inom": "V09",
-                    "iestat": "Vigent",
-                    "itipus": "Tabular",
-                    "ipromotor": "Institut d'Estadística de Catalunya (Idescat)",
-                    "idescripcio": "Versión a partir del 01/01/2009",
-                    "ifitxer_doc": "",
-                    "ifitxer_xls": "",
-                    "idatacreacio": "05/05/2025",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
-                    "idatapublicacio": "21/05/2025",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/p2k3-2jsf",
-                    "itipusactualitzacio": "Sota demanda"
-                }
-            ],
-            "nom_dinsBD": "CLASIFICACION_NACIONAL_DE_ACTIVIDADES_ECONOMICAS",
-            "Classificacio": "Consolidat",
-            "Data_publicacio": "21/05/2025",
-            "Data_actualitzacio": "21/05/2025"
         }
     ]
 }
