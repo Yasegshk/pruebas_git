@@ -5810,62 +5810,6 @@
             "Classificacio": "Consolidat",
             "Data_publicacio": "29/01/2025",
             "Data_actualitzacio": "29/01/2025"
-        },
-        {
-            "Id": "dtarq233",
-            "Nom": "[PRE] - Test jueves 29",
-            "Ambit": "Administració pública, govern i relacions institucionals",
-            "Subambit": "Acció de govern i normativa. desplegament de l'autogovern",
-            "Descripcio": "Test jueves 29",
-            "instancies": [
-                {
-                    "inom": "V01",
-                    "iestat": "Vigent",
-                    "itipus": "Tabular",
-                    "ipromotor": "Agència de Residus de Catalunya",
-                    "idescripcio": "Test jueves 29",
-                    "ifitxer_doc": "",
-                    "ifitxer_xls": "",
-                    "idatacreacio": "29/05/2025",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
-                    "idatapublicacio": "02/06/2025",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/w2n4-faxn",
-                    "itipusactualitzacio": "Sota demanda"
-                }
-            ],
-            "nom_dinsBD": "PRE__TEST_JUEVES_29",
-            "Classificacio": "Consolidat",
-            "Data_publicacio": "02/06/2025",
-            "Data_actualitzacio": "02/06/2025"
-        },
-        {
-            "Id": "dtarqxxx",
-            "Nom": "[PRE] - Test jueves 29 parte 2",
-            "Ambit": "Administració pública, govern i relacions institucionals",
-            "Subambit": "Acció de govern i normativa. desplegament de l'autogovern",
-            "Descripcio": "test TEST",
-            "instancies": [
-                {
-                    "inom": "V01",
-                    "iestat": "Vigent",
-                    "itipus": "Tabular",
-                    "ipromotor": "Agència de Residus de Catalunya",
-                    "idescripcio": "test",
-                    "ifitxer_doc": "",
-                    "ifitxer_xls": "",
-                    "idatacreacio": "29/05/2025",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
-                    "idatapublicacio": "02/06/2025",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/ppa6-3nuz",
-                    "itipusactualitzacio": "Sota demanda"
-                }
-            ],
-            "nom_dinsBD": "PRE__TEST_JUEVES_29_PARTE_2",
-            "Classificacio": "Consolidat",
-            "Data_publicacio": "02/06/2025",
-            "Data_actualitzacio": "02/06/2025"
         }
     ]
 }
