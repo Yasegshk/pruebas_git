@@ -5881,34 +5881,6 @@
             "Classificacio": "Consolidat",
             "Data_publicacio": "02/06/2025",
             "Data_actualitzacio": "02/06/2025"
-        },
-        {
-            "Id": "",
-            "Nom": "[DES] Test idEntitat",
-            "Ambit": "Administració pública, govern i relacions institucionals",
-            "Subambit": "Acció de govern i normativa. desplegament de l'autogovern",
-            "Descripcio": "Test idEntitat",
-            "instancies": [
-                {
-                    "inom": "V001",
-                    "iestat": "Vigent",
-                    "itipus": "Tabular",
-                    "ipromotor": "Altres/Diversos",
-                    "idescripcio": "Test idEntitat",
-                    "ifitxer_doc": "Tes_idEntitat.docx",
-                    "ifitxer_xls": "Test_idEntitat.xlsx",
-                    "idatacreacio": "17/09/2025",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
-                    "idatapublicacio": "18/09/2025",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/q8gr-ai9c",
-                    "itipusactualitzacio": "Sota demanda"
-                }
-            ],
-            "nom_dinsBD": "DES_TEST_IDENTITAT",
-            "Classificacio": "Consolidat",
-            "Data_publicacio": "18/09/2025",
-            "Data_actualitzacio": "18/09/2025"
         }
     ]
 }
