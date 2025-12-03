@@ -5881,6 +5881,34 @@
             "Classificacio": "Consolidat",
             "Data_publicacio": "02/06/2025",
             "Data_actualitzacio": "02/06/2025"
+        },
+        {
+            "Id": "",
+            "Nom": "TEST RDM nueva entidad",
+            "Ambit": "Administració pública, govern i relacions institucionals",
+            "Subambit": "Funcionament de l'administració (règim jurídic, funció pública, procediment administratiu, contractació pública, expropiació, responsabilitat patrimonial, administració digital, etc.)",
+            "Descripcio": "TEST RDM nueva entidad",
+            "instancies": [
+                {
+                    "inom": "V001",
+                    "iestat": "Vigent",
+                    "itipus": "Tabular",
+                    "ipromotor": "Agència de Residus de Catalunya",
+                    "idescripcio": "TEST RDM nueva entidad",
+                    "ifitxer_doc": "TEST RDM nueva entidad.docx",
+                    "ifitxer_xls": "TEST RDM nueva entidad.xlsx",
+                    "idatacreacio": "28/11/2025",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "03/12/2025",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/7v8n-yn4r",
+                    "itipusactualitzacio": "Sota demanda"
+                }
+            ],
+            "nom_dinsBD": "TEST_RDM_NUEVA_ENTIDAD",
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "03/12/2025",
+            "Data_actualitzacio": "03/12/2025"
         }
     ]
 }
