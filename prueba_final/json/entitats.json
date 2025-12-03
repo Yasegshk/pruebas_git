@@ -275,10 +275,10 @@
         },
         {
             "Id": "dtarq102",
-            "Nom": "Direccions generals de l’Administració de la Generalitat de Catalunya",
+            "Nom": "Direccions generals",
             "Ambit": "Administració pública, govern i relacions institucionals",
             "Subambit": "Organització de l'administració i sector públic",
-            "Descripcio": "Les direccions generals i assimilades orgànicament (per ex. Direcció de Serveis) són alts càrrecs, a més, són les unitats directives bàsiques de l’Administració de la Generalitat encarregades de la gestió d’una o diverses àrees d’activitat funcional homogènies. Tenen les funcions, la dependència i l’estructura que determini el decret d’estructura corresponent.",
+            "Descripcio": "Llistat de direccions generals i assimilades orgànicament (per ex. direcció de serveis) en què s’organitzen els departaments de l’Administració de la Generalitat de Catalunya.",
             "instancies": [
                 {
                     "inom": "V01",
@@ -476,25 +476,25 @@
                     "itipusactualitzacio": "Sota demanda"
                 },
                 {
-                    "inom": "V019",
+                    "inom": "V14",
                     "iestat": "Vigent",
                     "itipus": "Tabular",
                     "ipromotor": "Subdirecció General d'Organització de l'Administració i del Sector Públic",
-                    "idescripcio": "Actualització del conjunt de valors a causa de l'acord amb el Decret 105/2025, de 27 de maig, de reestructuració del Departament de la Presidència",
+                    "idescripcio": "Modificació d’ofici de l'entitat de Direccions Generals a causa del darrer decret de reestructuració del Departament d’Agricultura, Pesca, Ramaderia i Alimentació.",
                     "ifitxer_doc": "Direccions_Generals_ATR.docx",
-                    "ifitxer_xls": "Direccions_generals.xlsx",
-                    "idatacreacio": "02/12/2025",
+                    "ifitxer_xls": "Direccions_Generals.xlsx",
+                    "idatacreacio": "19/12/2024",
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "",
-                    "idatapublicacio": "03/12/2025",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/f6vb-44qq",
+                    "idatapublicacio": "19/12/2024",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Sector-P%C3%BAblic/Direccions-generals/qh8m-68gu",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
             "nom_dinsBD": "DIRECCIONS_GENERALS",
             "Classificacio": "Consolidat",
-            "Data_publicacio": "03/12/2025",
-            "Data_actualitzacio": "03/12/2025"
+            "Data_publicacio": "20/01/2021",
+            "Data_actualitzacio": "19/12/2024"
         },
         {
             "Id": "dtarq192",
@@ -731,11 +731,11 @@
             "Data_actualitzacio": "19/12/2024"
         },
         {
-            "Id": "dtarq194",
-            "Nom": "Subdireccions generals",
+            "Id": "dtarq108",
+            "Nom": "Subdireccions generals de l’Administració de la Generalitat de Catalunya",
             "Ambit": "Administració pública, govern i relacions institucionals",
             "Subambit": "Organització de l'administració i sector públic",
-            "Descripcio": "Llistat de subdireccions generals en què s’organitzen els departaments de l’Administració de la Generalitat de Catalunya.",
+            "Descripcio": "Llistat de subdireccions generals de la Generalitat de Catalunya, especificant la secretaria o la direcció General de la qual depenen.",
             "instancies": [
                 {
                     "inom": "V01",
@@ -798,25 +798,25 @@
                     "itipusactualitzacio": "Sota demanda"
                 },
                 {
-                    "inom": "V05",
+                    "inom": "V010",
                     "iestat": "Vigent",
                     "itipus": "Tabular",
                     "ipromotor": "Oficina d’Organització de l'Administració i del Sector Públic",
-                    "idescripcio": "Modificació d’ofici de l'entitat de Subdireccions Generals a causa del darrer decret de reestructuració del Departament d’Agricultura, Pesca, Ramaderia i Alimentació.",
+                    "idescripcio": "Actualització del conjunt de valors a causa de l'acord amb el Decret 105/2025, de 27 de maig, de reestructuració del Departament de la Presidència",
                     "ifitxer_doc": "Subdireccions_Generals_ATR.docx",
                     "ifitxer_xls": "Subdireccions_Generals.xlsx",
-                    "idatacreacio": "19/12/2024",
+                    "idatacreacio": "02/12/2025",
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "",
-                    "idatapublicacio": "19/12/2024",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Sector-P-blic/Subdireccions-Generals/yb4q-ihtu",
+                    "idatapublicacio": "03/12/2025",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/gz25-6fib",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
             "nom_dinsBD": "SUBDIRECCIONS_GENERALS",
             "Classificacio": "Consolidat",
-            "Data_publicacio": "27/03/2024",
-            "Data_actualitzacio": "19/12/2024"
+            "Data_publicacio": "03/12/2025",
+            "Data_actualitzacio": "03/12/2025"
         },
         {
             "Id": "dtarq90",
