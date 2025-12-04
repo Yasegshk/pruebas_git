@@ -2614,10 +2614,10 @@
             "Nom": "Grau parentiu",
             "Ambit": "Societat i ciutadania",
             "Subambit": "Atenció ciutadana i relacions amb l'administració",
-            "Descripcio": "Grau de parentiu existent entre persones.",
+            "Descripcio": "TEST",
             "instancies": [
                 {
-                    "inom": "V01",
+                    "inom": "V001",
                     "iestat": "Vigent",
                     "itipus": "Tabular",
                     "ipromotor": "Gabinet Jurídic de la Generalitat",
@@ -2627,15 +2627,15 @@
                     "idatacreacio": "07/06/2019",
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "",
-                    "idatapublicacio": "23/02/2022",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Societat-benestar/Grau-parentiu/7i4q-inca",
+                    "idatapublicacio": "04/12/2025",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/5d9v-m5ts",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
             "nom_dinsBD": "GRAU_PARENTIU",
             "Classificacio": "Consolidat",
-            "Data_publicacio": "23/02/2022",
-            "Data_actualitzacio": "23/02/2022"
+            "Data_publicacio": "04/12/2025",
+            "Data_actualitzacio": "04/12/2025"
         },
         {
             "Id": "dtarq46",
