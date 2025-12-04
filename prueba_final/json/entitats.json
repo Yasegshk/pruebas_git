@@ -957,7 +957,7 @@
             "Descripcio": "Llista de les diputacions provincials de Catalunya.",
             "instancies": [
                 {
-                    "inom": "V01",
+                    "inom": "V001",
                     "iestat": "Vigent",
                     "itipus": "Tabular",
                     "ipromotor": "Direcció General d'Administració Local (DGAL)",
@@ -968,7 +968,7 @@
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "",
                     "idatapublicacio": "20/04/2020",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Diputacions/wa8j-c62f",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/wa8j-c62f",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
