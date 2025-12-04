@@ -2553,7 +2553,7 @@
         },
         {
             "Id": "dtarq48",
-            "Nom": "Codificació estàndard per a la dada de referència gènere",
+            "Nom": "Gènere",
             "Ambit": "Societat i ciutadania",
             "Subambit": "Atenció ciutadana i relacions amb l'administració",
             "Descripcio": "Conjunt de característiques socials, culturals, polítiques, psicològiques, jurídiques i econòmiques construïdes socioculturalment que la societat assigna a les persones de manera diferenciada, com a pròpies d’homes i dones.",
@@ -2602,27 +2602,12 @@
                     "idatapublicacio": "30/09/2024",
                     "iurl_dades_obertes": "",
                     "itipusactualitzacio": "Sota demanda"
-                },
-                {
-                    "inom": "V004",
-                    "iestat": "Vigent",
-                    "itipus": "Tabular",
-                    "ipromotor": "Direcció General de Polítiques Públiques LGBTI+",
-                    "idescripcio": "Modificació d'Ofici de l'entitat Gènere, arran d'una revisió del conjunt de dades, descripció i òrgan promotor.",
-                    "ifitxer_doc": "Genere_ATR.docx",
-                    "ifitxer_xls": "Genere.xlsx",
-                    "idatacreacio": "04/12/2025",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
-                    "idatapublicacio": "04/12/2025",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/rpg6-9mu9",
-                    "itipusactualitzacio": "Sota demanda"
                 }
             ],
             "nom_dinsBD": "GENERE",
             "Classificacio": "Consolidat",
             "Data_publicacio": "30/09/2024",
-            "Data_actualitzacio": "04/12/2025"
+            "Data_actualitzacio": "04/12/2024"
         },
         {
             "Id": "dtarq54",
