@@ -2554,7 +2554,7 @@
         {
             "Id": "dtarq48",
             "Nom": "Gènere",
-            "Ambit": "Societat, ciutadania i famílies",
+            "Ambit": "Societat i ciutadania",
             "Subambit": "Atenció ciutadana i relacions amb l'administració",
             "Descripcio": "Conjunt de característiques socials, culturals, polítiques, psicològiques, jurídiques i econòmiques construïdes socioculturalment que la societat assigna a les persones de manera diferenciada, com a pròpies d’homes i dones.",
             "instancies": [
@@ -2589,7 +2589,7 @@
                     "itipusactualitzacio": "Sota demanda"
                 },
                 {
-                    "inom": "V03",
+                    "inom": "V003",
                     "iestat": "Vigent",
                     "itipus": "Tabular",
                     "ipromotor": "Direcció General de Polítiques Públiques LGBTI+",
@@ -2600,13 +2600,13 @@
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "",
                     "idatapublicacio": "30/09/2024",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/resource/rpg6-9mu9",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/rpg6-9mu9",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
             "nom_dinsBD": "GENERE",
             "Classificacio": "Consolidat",
-            "Data_publicacio": "31/03/2021",
+            "Data_publicacio": "30/09/2024",
             "Data_actualitzacio": "30/09/2024"
         },
         {
