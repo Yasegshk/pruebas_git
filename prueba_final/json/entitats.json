@@ -5924,34 +5924,6 @@
             "Classificacio": "Consolidat",
             "Data_publicacio": "03/12/2025",
             "Data_actualitzacio": "03/12/2025"
-        },
-        {
-            "Id": "",
-            "Nom": "TEST RDM épica 5 nueva entidad",
-            "Ambit": "Agricultura, ramaderia, pesca i alimentació",
-            "Subambit": "Agricultura i ramaderia",
-            "Descripcio": "descripción ",
-            "instancies": [
-                {
-                    "inom": "V001",
-                    "iestat": "Vigent",
-                    "itipus": "Tabular",
-                    "ipromotor": "Agència de Residus de Catalunya",
-                    "idescripcio": "descripción versión",
-                    "ifitxer_doc": "",
-                    "ifitxer_xls": "",
-                    "idatacreacio": "04/12/2025",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
-                    "idatapublicacio": "04/12/2025",
-                    "iurl_dades_obertes": "",
-                    "itipusactualitzacio": "Sota demanda"
-                }
-            ],
-            "nom_dinsBD": "TEST_RDM_EPICA_5_NUEVA_ENTIDAD",
-            "Classificacio": "Consolidat",
-            "Data_publicacio": "04/12/2025",
-            "Data_actualitzacio": "04/12/2025"
         }
     ]
 }
