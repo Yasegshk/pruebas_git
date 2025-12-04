@@ -2588,26 +2588,27 @@
                     "iurl_dades_obertes": "",
                     "itipusactualitzacio": "Sota demanda"
                 },
+                null,
                 {
                     "inom": "V003",
-                    "iestat": "Obsoleta",
+                    "iestat": "Vigent",
                     "itipus": "Tabular",
                     "ipromotor": "Direcció General de Polítiques Públiques LGBTI+",
                     "idescripcio": "Modificació d'Ofici de l'entitat Gènere, arran d'una revisió del conjunt de dades, descripció i òrgan promotor.",
-                    "ifitxer_doc": "deprecated/Genere_ATR.docx",
-                    "ifitxer_xls": "deprecated/Genere.xlsx",
+                    "ifitxer_doc": "Genere_ATR.docx",
+                    "ifitxer_xls": "Genere.xlsx",
                     "idatacreacio": "30/09/2024",
                     "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "04/12/2025",
+                    "idataobsoleta": "",
                     "idatapublicacio": "30/09/2024",
-                    "iurl_dades_obertes": "",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/rpg6-9mu9",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
             "nom_dinsBD": "GENERE",
             "Classificacio": "Consolidat",
             "Data_publicacio": "30/09/2024",
-            "Data_actualitzacio": "04/12/2024"
+            "Data_actualitzacio": "30/09/2024"
         },
         {
             "Id": "dtarq54",
