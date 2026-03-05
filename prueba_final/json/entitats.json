@@ -4,7 +4,7 @@
             "Id": "dtarq167",
             "Nom": "Diaris i butlletins oficials",
             "Ambit": "Administració pública, govern i relacions institucionals",
-            "Subambit": "Funcionament de l'administració",
+            "Subambit": "Funcionament de l'administració (règim jurídic, funció pública, procediment administratiu, contractació pública, expropiació, responsabilitat patrimonial, administració digital, etc.)",
             "Descripcio": "Diaris i butlletins oficials en què es publiquen les lleis, els reglaments i les disposicions emeses pels poders legislatiu i executiu.",
             "instancies": [
                 {
@@ -24,24 +24,39 @@
                 },
                 {
                     "inom": "V02",
-                    "iestat": "Vigent",
+                    "iestat": "Obsoleta",
                     "itipus": "Tabular",
                     "ipromotor": "Entitat Autònoma del Diari Oficial i de Publicacions de la Generalitat de Catalunya (EADOP) - Departament de la Presidència",
                     "idescripcio": "Actualització URL de \"Boletín Oficial de las Cortes Generales\" i incorporació del valor \"N-Lex, legislació estatal dels països de la UE\".",
-                    "ifitxer_doc": "Diaris_butlletins_oficials_ATR.docx",
-                    "ifitxer_xls": "Diaris_butlletins_oficials.xlsx",
+                    "ifitxer_doc": "deprecated/test_diaris_V003.docx",
+                    "ifitxer_xls": "deprecated/test_DIARIS_V003.xlsx",
                     "idatacreacio": "19/12/2022",
                     "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
+                    "idataobsoleta": "05/03/2026",
                     "idatapublicacio": "21/12/2022",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Sector-P-blic/Diaris-i-butlletins-oficials/g3hw-wsae",
+                    "iurl_dades_obertes": "",
+                    "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "V003",
+                    "iestat": "Vigent",
+                    "itipus": "Tabular",
+                    "ipromotor": "Entitat Autònoma del Diari Oficial i de Publicacions de la Generalitat de Catalunya (EADOP)",
+                    "idescripcio": "Actualització URL de \"Boletín Oficial de las Cortes Generales\" i incorporació del valor \"N-Lex, legislació estatal dels països de la UE\".",
+                    "ifitxer_doc": "test_diaris.docx",
+                    "ifitxer_xls": "test_DIARIS.xlsx",
+                    "idatacreacio": "05/03/2026",
+                    "itipusvisual": "",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "05/03/2026",
+                    "iurl_dades_obertes": "",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
             "nom_dinsBD": "DIARIS_BUTLLETINS_OFICIALS",
             "Classificacio": "Consolidat",
             "Data_publicacio": "27/07/2022",
-            "Data_actualitzacio": "21/12/2022"
+            "Data_actualitzacio": "05/03/2026"
         },
         {
             "Id": "dtarq188",
