@@ -5962,6 +5962,21 @@
             "instancies": [
                 {
                     "inom": "V002",
+                    "iestat": "Obsoleta",
+                    "itipus": "Tabular",
+                    "ipromotor": "Gabinet Tècnic",
+                    "idescripcio": "Versió inicial",
+                    "ifitxer_doc": "deprecated/Test_ATR.docx",
+                    "ifitxer_xls": "deprecated/Test (2).xlsx",
+                    "idatacreacio": "05/03/2026",
+                    "itipusvisual": "",
+                    "idataobsoleta": "05/03/2026",
+                    "idatapublicacio": "05/03/2026",
+                    "iurl_dades_obertes": "",
+                    "itipusactualitzacio": ""
+                },
+                {
+                    "inom": "V002",
                     "iestat": "Vigent",
                     "itipus": "Tabular",
                     "ipromotor": "Gabinet Tècnic",
