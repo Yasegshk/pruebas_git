@@ -5952,6 +5952,34 @@
             "Classificacio": "Consolidat",
             "Data_publicacio": "04/12/2025",
             "Data_actualitzacio": "04/12/2025"
+        },
+        {
+            "Id": "dtarq222",
+            "Nom": "Delimitació dels serveis territorials Interior i Seguretat Pública",
+            "Ambit": "Administració pública, govern i relacions institucionals",
+            "Subambit": "Organització de l'administració i sector públic",
+            "Descripcio": "Delimitació dels serveis Territorials en què s’estructura el departament d’Interior i Seguretat Pública per exercir les seves funcions en l’àmbit territorial.",
+            "instancies": [
+                {
+                    "inom": "V002",
+                    "iestat": "Vigent",
+                    "itipus": "Tabular",
+                    "ipromotor": "Gabinet Tècnic",
+                    "idescripcio": "Versió inicial",
+                    "ifitxer_doc": "Test_ATR.docx",
+                    "ifitxer_xls": "Test (2).xlsx",
+                    "idatacreacio": "05/03/2026",
+                    "itipusvisual": "",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "05/03/2026",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/qstq-m643",
+                    "itipusactualitzacio": ""
+                }
+            ],
+            "nom_dinsBD": "DELIMITACIO_DELS_SERVEIS_TERRITORIALS_INTERIOR_I_SEGURETAT_PUBLICA",
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "05/03/2026",
+            "Data_actualitzacio": "05/03/2026"
         }
     ]
 }
