@@ -5802,29 +5802,44 @@
             "Id": "dtarq222-nuevo origen",
             "Nom": "Delimitació dels serveis territorials Interior i Seguretat Pública",
             "Ambit": "Administració pública, govern i relacions institucionals",
-            "Subambit": "Organització de l’administració i sector públic",
+            "Subambit": "Organització de l'administració i sector públic",
             "Descripcio": "Delimitació dels serveis Territorials en què s’estructura el departament d’Interior i Seguretat Pública per exercir les seves funcions en l’àmbit territorial.",
             "instancies": [
                 {
                     "inom": "V01",
-                    "iestat": "Vigent",
+                    "iestat": "Obsoleta",
                     "itipus": "Tabular",
                     "ipromotor": "Gabinet Tècnic - Departament d’Interior i Seguretat Pública",
                     "idescripcio": "Versió inicial",
-                    "ifitxer_doc": "SERVEIS_TERR_INT_ATR.docx",
-                    "ifitxer_xls": "SERVEIS_TERR_INT.csv",
+                    "ifitxer_doc": "deprecated/SERVEIS_TERR_INT_ATR_V002.docx",
+                    "ifitxer_xls": "deprecated/SERVEIS_TERR_INT_V002.csv",
                     "idatacreacio": "29/01/2025",
                     "itipusvisual": "29/01/2025",
-                    "idataobsoleta": "",
+                    "idataobsoleta": "05/03/2026",
                     "idatapublicacio": "29/01/2025",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Seguretat/Delimitaci-dels-serveis-territorials-Interior-i-Se/5sk6-yqrf/",
+                    "iurl_dades_obertes": "",
                     "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "V002",
+                    "iestat": "Vigent",
+                    "itipus": "Tabular",
+                    "ipromotor": "Gabinet Tècnic",
+                    "idescripcio": "Versió inicial",
+                    "ifitxer_doc": "SERVEIS_TERR_INT_ATR.docx",
+                    "ifitxer_xls": "SERVEIS_TERR_INT.csv",
+                    "idatacreacio": "05/03/2026",
+                    "itipusvisual": "",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "05/03/2026",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/qstq-m643",
+                    "itipusactualitzacio": ""
                 }
             ],
             "nom_dinsBD": "DELIMITACIO_DELS_SERVEIS_TERRITORIALS_INTERIOR_I_SEGURETAT_PUBLICA",
             "Classificacio": "Consolidat",
             "Data_publicacio": "29/01/2025",
-            "Data_actualitzacio": "29/01/2025"
+            "Data_actualitzacio": "05/03/2026"
         },
         {
             "Id": "dtarqxxx",
