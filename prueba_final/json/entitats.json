@@ -2917,24 +2917,39 @@
             "instancies": [
                 {
                     "inom": "V01",
+                    "iestat": "Obsoleta",
+                    "itipus": "Tabular",
+                    "ipromotor": "Institut d'Estadística de Catalunya (Idescat)",
+                    "idescripcio": "Versió inicial.",
+                    "ifitxer_doc": "deprecated/Sexe_ATR_V001.docx",
+                    "ifitxer_xls": "deprecated/Sexe_V001.xlsx",
+                    "idatacreacio": "31/03/2021",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "10/03/2026",
+                    "idatapublicacio": "31/03/2021",
+                    "iurl_dades_obertes": "",
+                    "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "V002",
                     "iestat": "Vigent",
                     "itipus": "Tabular",
                     "ipromotor": "Institut d'Estadística de Catalunya (Idescat)",
                     "idescripcio": "Versió inicial.",
-                    "ifitxer_doc": "Sexe_ATR.docx",
-                    "ifitxer_xls": "Sexe.xlsx",
-                    "idatacreacio": "31/03/2021",
-                    "itipusvisual": "Ús no restringit",
+                    "ifitxer_doc": "Test_Correctivo_Canigo.docx",
+                    "ifitxer_xls": "Test_Correctivo_Canigo.xlsx",
+                    "idatacreacio": "10/03/2026",
+                    "itipusvisual": "",
                     "idataobsoleta": "",
-                    "idatapublicacio": "31/03/2021",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Societat-benestar/Sexe/in7g-gc2u",
+                    "idatapublicacio": "10/03/2026",
+                    "iurl_dades_obertes": "",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
             "nom_dinsBD": "SEXE",
             "Classificacio": "Consolidat",
             "Data_publicacio": "31/03/2021",
-            "Data_actualitzacio": "31/03/2021"
+            "Data_actualitzacio": "10/03/2026"
         },
         {
             "Id": "dtarq134",
